@@ -2,8 +2,8 @@
         "name": "16b46.Trojan.Obf",
         "versions": {
                 "attack": "10",
-                "navigator": "4.5.5",
-                "layer": "4.3"
+                "navigator": "4.8.0",
+                "layer": "4.4"
         },
         "domain": "enterprise-attack",
         "description": "",
